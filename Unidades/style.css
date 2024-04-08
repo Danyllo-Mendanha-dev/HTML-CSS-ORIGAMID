@@ -1,0 +1,35 @@
+body {
+  margin: 0px;
+}
+
+div {
+  /* height: 100vh; */
+  width: 50%;
+  background-color: blue ;
+  height: 100vh;
+}
+
+/* a {
+  text-decoration: none;
+  color: white;
+  background: darkblue;
+  display: inline-block;
+}
+
+p {
+  background: lightblue;
+}
+
+.px {
+  font-size: 24px;
+  padding: 16px 32px;
+}
+
+html {
+font-size: 1rem;
+}
+
+.rem {
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+} */
